@@ -2,6 +2,10 @@
   "expo": {
     "name": "Assignment4-CPRG303",
     "slug": "Assignment4-CPRG303",
-    "version": "1.0.0"
+    "scheme": "myapp",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
